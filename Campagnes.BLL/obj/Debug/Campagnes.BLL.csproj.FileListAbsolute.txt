@@ -1,0 +1,96 @@
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BLL.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BLL.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BO.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\EntityFramework.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BO.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BO.dll.config
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.DAL.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\EntityFramework.xml
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.csprojAssemblyReference.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CopyComplete
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.DAL.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CopyComplete
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BLL\obj\Debug\Campagnes.BLL.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BLL.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BLL.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BO.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\EntityFramework.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BO.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BO.dll.config
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.DAL.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\EntityFramework.xml
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.csprojAssemblyReference.cache
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CopyComplete
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.DAL.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CopyComplete
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BLL\obj\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.DAL.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CopyComplete
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BLL.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BLL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\EntityFramework.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.BO.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.DAL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\Campagnes.DAL.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\EntityFramework.xml
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Debug\fr\EntityFramework.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.csprojAssemblyReference.cache
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CoreCompileInputs.cache
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.csproj.CopyComplete
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Debug\Campagnes.BLL.pdb

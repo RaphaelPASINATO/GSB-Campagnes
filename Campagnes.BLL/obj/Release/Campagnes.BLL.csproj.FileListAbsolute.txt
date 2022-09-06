@@ -1,0 +1,16 @@
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.BLL.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.BLL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.DAL.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\EntityFramework.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.BO.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.DAL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\Campagnes.DAL.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\EntityFramework.xml
+D:\BTS FINI\Campagnes original\Campagnes.BLL\bin\Release\fr\EntityFramework.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Release\Campagnes.BLL.csprojAssemblyReference.cache
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Release\Campagnes.BLL.csproj.CoreCompileInputs.cache
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Release\Campagnes.BLL.csproj.CopyComplete
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Release\Campagnes.BLL.dll
+D:\BTS FINI\Campagnes original\Campagnes.BLL\obj\Release\Campagnes.BLL.pdb
