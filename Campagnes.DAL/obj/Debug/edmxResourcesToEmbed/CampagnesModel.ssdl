@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CampagnesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Agence">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Adresse" Type="char" MaxLength="255" Nullable="false" />
+    <Property Name="Telephone" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="SiteWeb" Type="varchar" MaxLength="255" />
+    <Property Name="CodeInseeVille" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="SpecialiteAgence" Type="char" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="Artiste">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="SiteWeb" Type="varchar" MaxLength="255" />
+    <Property Name="IdCourantArtistique" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Campagne">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Intitule" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Objectif" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="DateDebut" Type="date" Nullable="false" />
+    <Property Name="DateFin" Type="date" Nullable="false" />
+    <Property Name="IdTypePublic" Type="int" Nullable="false" />
+    <Property Name="IdAgenceCommunication" Type="int" />
+    <Property Name="IdAgenceArtistique" Type="int" />
+    <Property Name="IdEmploye" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CategorieVip">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Libelle" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CourantArtistique">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Libelle" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Prenom" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Evenement">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Intitule" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="DateDebut" Type="date" Nullable="false" />
+    <Property Name="DateFin" Type="date" Nullable="false" />
+    <Property Name="IdCampagne" Type="int" Nullable="false" />
+    <Property Name="CodeInseeVille" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Fonctionnalite">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="identifiantMenu" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Habilitation">
+    <Key>
+      <PropertyRef Name="IdProfil" />
+      <PropertyRef Name="IdFonctionnalite" />
+    </Key>
+    <Property Name="IdProfil" Type="int" Nullable="false" />
+    <Property Name="IdFonctionnalite" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Invitation">
+    <Key>
+      <PropertyRef Name="IdVip" />
+      <PropertyRef Name="IdEvenement" />
+    </Key>
+    <Property Name="IdVip" Type="int" Nullable="false" />
+    <Property Name="IdEvenement" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Message">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Objet" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Corps" Type="varchar" MaxLength="500" />
+    <Property Name="IdCategorieVip" Type="int" Nullable="false" />
+    <Property Name="IdEvenement" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Participation">
+    <Key>
+      <PropertyRef Name="IdEvenement" />
+      <PropertyRef Name="IdArtiste" />
+    </Key>
+    <Property Name="IdEvenement" Type="int" Nullable="false" />
+    <Property Name="IdArtiste" Type="int" Nullable="false" />
+    <Property Name="Cachet" Type="money" />
+  </EntityType>
+  <EntityType Name="Profil">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Intitule" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TraceIntervention">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NomTable" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="OperationEffectuee" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="DateHeure" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TypePublic">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Libelle" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Utilisateur">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Prenom" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Pseudo" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Mdp" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="IdProfil" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ville">
+    <Key>
+      <PropertyRef Name="CodeInsee" />
+    </Key>
+    <Property Name="CodeInsee" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Arrondissement" Type="varchar" MaxLength="10" />
+    <Property Name="CodePostal" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Vip">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Adresse" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Mail" Type="varchar" MaxLength="255" />
+    <Property Name="IdCategorieVip" Type="int" Nullable="false" />
+    <Property Name="CodeInseeVille" Type="char" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Agence__CodeInse__778AC167">
+    <End Role="Ville" Type="Self.Ville" Multiplicity="1" />
+    <End Role="Agence" Type="Self.Agence" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ville">
+        <PropertyRef Name="CodeInsee" />
+      </Principal>
+      <Dependent Role="Agence">
+        <PropertyRef Name="CodeInseeVille" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Artiste__IdCoura__76969D2E">
+    <End Role="CourantArtistique" Type="Self.CourantArtistique" Multiplicity="1" />
+    <End Role="Artiste" Type="Self.Artiste" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CourantArtistique">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Artiste">
+        <PropertyRef Name="IdCourantArtistique" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Campagne__IdAgen__6EF57B66">
+    <End Role="Agence" Type="Self.Agence" Multiplicity="0..1" />
+    <End Role="Campagne" Type="Self.Campagne" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agence">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Campagne">
+        <PropertyRef Name="IdAgenceCommunication" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Campagne__IdAgen__6FE99F9F">
+    <End Role="Agence" Type="Self.Agence" Multiplicity="0..1" />
+    <End Role="Campagne" Type="Self.Campagne" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Agence">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Campagne">
+        <PropertyRef Name="IdAgenceArtistique" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Campagne__IdEmpl__70DDC3D8">
+    <End Role="Employe" Type="Self.Employe" Multiplicity="1" />
+    <End Role="Campagne" Type="Self.Campagne" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employe">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Campagne">
+        <PropertyRef Name="IdEmploye" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Campagne__IdType__71D1E811">
+    <End Role="TypePublic" Type="Self.TypePublic" Multiplicity="1" />
+    <End Role="Campagne" Type="Self.Campagne" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypePublic">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Campagne">
+        <PropertyRef Name="IdTypePublic" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Evenement__CodeI__73BA3083">
+    <End Role="Ville" Type="Self.Ville" Multiplicity="1" />
+    <End Role="Evenement" Type="Self.Evenement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ville">
+        <PropertyRef Name="CodeInsee" />
+      </Principal>
+      <Dependent Role="Evenement">
+        <PropertyRef Name="CodeInseeVille" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Evenement__IdCam__72C60C4A">
+    <End Role="Campagne" Type="Self.Campagne" Multiplicity="1" />
+    <End Role="Evenement" Type="Self.Evenement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Campagne">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Evenement">
+        <PropertyRef Name="IdCampagne" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Habilitat__IdFon__7E37BEF6">
+    <End Role="Fonctionnalite" Type="Self.Fonctionnalite" Multiplicity="1" />
+    <End Role="Habilitation" Type="Self.Habilitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fonctionnalite">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Habilitation">
+        <PropertyRef Name="IdFonctionnalite" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Habilitat__IdPro__7D439ABD">
+    <End Role="Profil" Type="Self.Profil" Multiplicity="1" />
+    <End Role="Habilitation" Type="Self.Habilitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profil">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Habilitation">
+        <PropertyRef Name="IdProfil" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invitatio__IdEve__7C4F7684">
+    <End Role="Evenement" Type="Self.Evenement" Multiplicity="1" />
+    <End Role="Invitation" Type="Self.Invitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Evenement">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Invitation">
+        <PropertyRef Name="IdEvenement" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Invitatio__IdVip__7B5B524B">
+    <End Role="Vip" Type="Self.Vip" Multiplicity="1" />
+    <End Role="Invitation" Type="Self.Invitation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vip">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Invitation">
+        <PropertyRef Name="IdVip" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Message__IdCateg__787EE5A0">
+    <End Role="CategorieVip" Type="Self.CategorieVip" Multiplicity="1" />
+    <End Role="Message" Type="Self.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategorieVip">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Message">
+        <PropertyRef Name="IdCategorieVip" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Message__IdEvene__797309D9">
+    <End Role="Evenement" Type="Self.Evenement" Multiplicity="1" />
+    <End Role="Message" Type="Self.Message" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Evenement">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Message">
+        <PropertyRef Name="IdEvenement" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Participa__IdArt__00200768">
+    <End Role="Artiste" Type="Self.Artiste" Multiplicity="1" />
+    <End Role="Participation" Type="Self.Participation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Artiste">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Participation">
+        <PropertyRef Name="IdArtiste" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Participa__IdEve__7F2BE32F">
+    <End Role="Evenement" Type="Self.Evenement" Multiplicity="1" />
+    <End Role="Participation" Type="Self.Participation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Evenement">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Participation">
+        <PropertyRef Name="IdEvenement" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Utilisate__IdPro__7A672E12">
+    <End Role="Profil" Type="Self.Profil" Multiplicity="1" />
+    <End Role="Utilisateur" Type="Self.Utilisateur" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profil">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Utilisateur">
+        <PropertyRef Name="IdProfil" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Vip__CodeInseeVi__75A278F5">
+    <End Role="Ville" Type="Self.Ville" Multiplicity="1" />
+    <End Role="Vip" Type="Self.Vip" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ville">
+        <PropertyRef Name="CodeInsee" />
+      </Principal>
+      <Dependent Role="Vip">
+        <PropertyRef Name="CodeInseeVille" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Vip__IdCategorie__74AE54BC">
+    <End Role="CategorieVip" Type="Self.CategorieVip" Multiplicity="1" />
+    <End Role="Vip" Type="Self.Vip" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CategorieVip">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Vip">
+        <PropertyRef Name="IdCategorieVip" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="sp_agence_add" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Nom" Type="varchar" Mode="In" />
+    <Parameter Name="Adresse" Type="varchar" Mode="In" />
+    <Parameter Name="Telephone" Type="varchar" Mode="In" />
+    <Parameter Name="Email" Type="varchar" Mode="In" />
+    <Parameter Name="SiteWeb" Type="varchar" Mode="In" />
+    <Parameter Name="CodeInseeVille" Type="char" Mode="In" />
+    <Parameter Name="SpecialiteAgence" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_agence_delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_agence_update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+    <Parameter Name="Nom" Type="varchar" Mode="In" />
+    <Parameter Name="Adresse" Type="varchar" Mode="In" />
+    <Parameter Name="Telephone" Type="varchar" Mode="In" />
+    <Parameter Name="Email" Type="varchar" Mode="In" />
+    <Parameter Name="SiteWeb" Type="varchar" Mode="In" />
+    <Parameter Name="CodeInseeVille" Type="char" Mode="In" />
+    <Parameter Name="SpecialiteAgence" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_artiste_add" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="nom" Type="varchar" Mode="In" />
+    <Parameter Name="siteWeb" Type="char" Mode="In" />
+    <Parameter Name="IdCourantArtistique" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_artiste_delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_artiste_update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+    <Parameter Name="nom" Type="varchar" Mode="In" />
+    <Parameter Name="siteWeb" Type="varchar" Mode="In" />
+    <Parameter Name="IdCourantArtistique" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_campagne_add" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Intitule" Type="varchar" Mode="In" />
+    <Parameter Name="Objectif" Type="varchar" Mode="In" />
+    <Parameter Name="dateDebut" Type="date" Mode="In" />
+    <Parameter Name="dateFin" Type="date" Mode="In" />
+    <Parameter Name="IdTypePublic" Type="int" Mode="In" />
+    <Parameter Name="IdAgenceCommunication" Type="int" Mode="In" />
+    <Parameter Name="IdAgenceArtistique" Type="int" Mode="In" />
+    <Parameter Name="IdEmploye" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_campagne_delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_campagne_update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+    <Parameter Name="Intitule" Type="varchar" Mode="In" />
+    <Parameter Name="Objectif" Type="varchar" Mode="In" />
+    <Parameter Name="dateDebut" Type="date" Mode="In" />
+    <Parameter Name="dateFin" Type="date" Mode="In" />
+    <Parameter Name="IdTypePublic" Type="int" Mode="In" />
+    <Parameter Name="IdAgenceCommunication" Type="int" Mode="In" />
+    <Parameter Name="IdAgenceArtistique" Type="int" Mode="In" />
+    <Parameter Name="IdEmploye" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_evenement_add" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Intitule" Type="varchar" Mode="In" />
+    <Parameter Name="DateDebut" Type="date" Mode="In" />
+    <Parameter Name="DateFin" Type="date" Mode="In" />
+    <Parameter Name="IdCampagne" Type="int" Mode="In" />
+    <Parameter Name="CodeInseeVille" Type="char" Mode="In" />
+  </Function>
+  <Function Name="sp_evenement_delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_evenement_update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+    <Parameter Name="Intitule" Type="varchar" Mode="In" />
+    <Parameter Name="DateDebut" Type="date" Mode="In" />
+    <Parameter Name="DateFin" Type="date" Mode="In" />
+    <Parameter Name="IdCampagne" Type="int" Mode="In" />
+    <Parameter Name="CodeInseeVille" Type="char" Mode="In" />
+  </Function>
+  <Function Name="sp_nombreAgenceParVilles" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_ville_add" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="codeInsee" Type="char" Mode="In" />
+    <Parameter Name="nom" Type="varchar" Mode="In" />
+    <Parameter Name="arrondissement" Type="varchar" Mode="In" />
+    <Parameter Name="codePostal" Type="char" Mode="In" />
+  </Function>
+  <Function Name="sp_vip_add" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Nom" Type="varchar" Mode="In" />
+    <Parameter Name="Adresse" Type="varchar" Mode="In" />
+    <Parameter Name="Mail" Type="varchar" Mode="In" />
+    <Parameter Name="IdCategorieVip" Type="int" Mode="In" />
+    <Parameter Name="CodeInseeVille" Type="char" Mode="In" />
+  </Function>
+  <Function Name="sp_vip_delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_vip_update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Id" Type="int" Mode="In" />
+    <Parameter Name="Nom" Type="varchar" Mode="In" />
+    <Parameter Name="Adresse" Type="varchar" Mode="In" />
+    <Parameter Name="Mail" Type="varchar" Mode="In" />
+    <Parameter Name="IdCategorieVip" Type="int" Mode="In" />
+    <Parameter Name="CodeInseeVille" Type="char" Mode="In" />
+  </Function>
+  <EntityContainer Name="CampagnesModelStoreContainer">
+    <EntitySet Name="Agence" EntityType="Self.Agence" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Artiste" EntityType="Self.Artiste" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Campagne" EntityType="Self.Campagne" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CategorieVip" EntityType="Self.CategorieVip" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CourantArtistique" EntityType="Self.CourantArtistique" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employe" EntityType="Self.Employe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Evenement" EntityType="Self.Evenement" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Fonctionnalite" EntityType="Self.Fonctionnalite" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Habilitation" EntityType="Self.Habilitation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Invitation" EntityType="Self.Invitation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Message" EntityType="Self.Message" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Participation" EntityType="Self.Participation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Profil" EntityType="Self.Profil" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TraceIntervention" EntityType="Self.TraceIntervention" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TypePublic" EntityType="Self.TypePublic" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Utilisateur" EntityType="Self.Utilisateur" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Ville" EntityType="Self.Ville" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vip" EntityType="Self.Vip" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Agence__CodeInse__778AC167" Association="Self.FK__Agence__CodeInse__778AC167">
+      <End Role="Ville" EntitySet="Ville" />
+      <End Role="Agence" EntitySet="Agence" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Artiste__IdCoura__76969D2E" Association="Self.FK__Artiste__IdCoura__76969D2E">
+      <End Role="CourantArtistique" EntitySet="CourantArtistique" />
+      <End Role="Artiste" EntitySet="Artiste" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Campagne__IdAgen__6EF57B66" Association="Self.FK__Campagne__IdAgen__6EF57B66">
+      <End Role="Agence" EntitySet="Agence" />
+      <End Role="Campagne" EntitySet="Campagne" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Campagne__IdAgen__6FE99F9F" Association="Self.FK__Campagne__IdAgen__6FE99F9F">
+      <End Role="Agence" EntitySet="Agence" />
+      <End Role="Campagne" EntitySet="Campagne" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Campagne__IdEmpl__70DDC3D8" Association="Self.FK__Campagne__IdEmpl__70DDC3D8">
+      <End Role="Employe" EntitySet="Employe" />
+      <End Role="Campagne" EntitySet="Campagne" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Campagne__IdType__71D1E811" Association="Self.FK__Campagne__IdType__71D1E811">
+      <End Role="TypePublic" EntitySet="TypePublic" />
+      <End Role="Campagne" EntitySet="Campagne" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Evenement__CodeI__73BA3083" Association="Self.FK__Evenement__CodeI__73BA3083">
+      <End Role="Ville" EntitySet="Ville" />
+      <End Role="Evenement" EntitySet="Evenement" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Evenement__IdCam__72C60C4A" Association="Self.FK__Evenement__IdCam__72C60C4A">
+      <End Role="Campagne" EntitySet="Campagne" />
+      <End Role="Evenement" EntitySet="Evenement" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Habilitat__IdFon__7E37BEF6" Association="Self.FK__Habilitat__IdFon__7E37BEF6">
+      <End Role="Fonctionnalite" EntitySet="Fonctionnalite" />
+      <End Role="Habilitation" EntitySet="Habilitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Habilitat__IdPro__7D439ABD" Association="Self.FK__Habilitat__IdPro__7D439ABD">
+      <End Role="Profil" EntitySet="Profil" />
+      <End Role="Habilitation" EntitySet="Habilitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invitatio__IdEve__7C4F7684" Association="Self.FK__Invitatio__IdEve__7C4F7684">
+      <End Role="Evenement" EntitySet="Evenement" />
+      <End Role="Invitation" EntitySet="Invitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Invitatio__IdVip__7B5B524B" Association="Self.FK__Invitatio__IdVip__7B5B524B">
+      <End Role="Vip" EntitySet="Vip" />
+      <End Role="Invitation" EntitySet="Invitation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Message__IdCateg__787EE5A0" Association="Self.FK__Message__IdCateg__787EE5A0">
+      <End Role="CategorieVip" EntitySet="CategorieVip" />
+      <End Role="Message" EntitySet="Message" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Message__IdEvene__797309D9" Association="Self.FK__Message__IdEvene__797309D9">
+      <End Role="Evenement" EntitySet="Evenement" />
+      <End Role="Message" EntitySet="Message" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Participa__IdArt__00200768" Association="Self.FK__Participa__IdArt__00200768">
+      <End Role="Artiste" EntitySet="Artiste" />
+      <End Role="Participation" EntitySet="Participation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Participa__IdEve__7F2BE32F" Association="Self.FK__Participa__IdEve__7F2BE32F">
+      <End Role="Evenement" EntitySet="Evenement" />
+      <End Role="Participation" EntitySet="Participation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Utilisate__IdPro__7A672E12" Association="Self.FK__Utilisate__IdPro__7A672E12">
+      <End Role="Profil" EntitySet="Profil" />
+      <End Role="Utilisateur" EntitySet="Utilisateur" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Vip__CodeInseeVi__75A278F5" Association="Self.FK__Vip__CodeInseeVi__75A278F5">
+      <End Role="Ville" EntitySet="Ville" />
+      <End Role="Vip" EntitySet="Vip" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Vip__IdCategorie__74AE54BC" Association="Self.FK__Vip__IdCategorie__74AE54BC">
+      <End Role="CategorieVip" EntitySet="CategorieVip" />
+      <End Role="Vip" EntitySet="Vip" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

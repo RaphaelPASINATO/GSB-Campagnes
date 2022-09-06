@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a4cd9e9d3ff148169217e0fab4f3f74a" Name="Diagram1" ZoomLevel="58">
+        <EntityTypeShape EntityType="CampagnesModel.Agence" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Artiste" Width="1.5" PointX="7.375" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Campagne" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.CategorieVip" Width="1.5" PointX="7.625" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.CourantArtistique" Width="1.5" PointX="5.375" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Employe" Width="1.5" PointX="3.375" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Evenement" Width="1.5" PointX="7.5" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Fonctionnalite" Width="1.5" PointX="9.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Message" Width="1.5" PointX="9.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Participation" Width="1.5" PointX="9.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Profil" Width="1.5" PointX="12" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.TraceIntervention" Width="1.5" PointX="0.625" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.TypePublic" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Utilisateur" Width="1.5" PointX="14.375" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Ville" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="CampagnesModel.Vip" Width="1.5" PointX="12.75" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="CampagnesModel.FK__Agence__CodeInse__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Campagne__IdAgen__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Campagne__IdAgen__74AE54BC" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Artiste__IdCoura__7B5B524B" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Participa__IdArt__04E4BC85" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Campagne__IdEmpl__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Campagne__IdType__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Evenement__IdCam__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Message__IdCateg__7D439ABD" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Vip__IdCategorie__797309D9" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Evenement__CodeI__787EE5A0" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Message__IdEvene__7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Participa__IdEve__03F0984C" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Utilisate__IdPro__7F2BE32F" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.FK__Vip__CodeInseeVi__7A672E12" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.Habilitation" ManuallyRouted="false" />
+        <AssociationConnector Association="CampagnesModel.Invitation" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

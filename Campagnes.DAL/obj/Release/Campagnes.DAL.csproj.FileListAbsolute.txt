@@ -1,0 +1,17 @@
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\Campagnes.DAL.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\Campagnes.DAL.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\Campagnes.DAL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\EntityFramework.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\Campagnes.BO.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\EntityFramework.xml
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\fr\EntityFramework.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\obj\Release\Campagnes.DAL.csprojAssemblyReference.cache
+D:\BTS FINI\Campagnes original\Campagnes.DAL\obj\Release\Campagnes.DAL.csproj.CoreCompileInputs.cache
+D:\BTS FINI\Campagnes original\Campagnes.DAL\obj\Release\Campagnes.DAL.csproj.CopyComplete
+D:\BTS FINI\Campagnes original\Campagnes.DAL\obj\Release\Campagnes.DAL.dll
+D:\BTS FINI\Campagnes original\Campagnes.DAL\obj\Release\Campagnes.DAL.pdb

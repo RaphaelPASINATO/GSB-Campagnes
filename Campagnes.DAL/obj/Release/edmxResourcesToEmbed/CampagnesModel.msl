@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CampagnesModelStoreContainer" CdmEntityContainer="CampagnesEntities">
+    <EntitySetMapping Name="Agences">
+      <EntityTypeMapping TypeName="CampagnesModel.Agence">
+        <MappingFragment StoreEntitySet="Agence">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SiteWeb" ColumnName="SiteWeb" />
+          <ScalarProperty Name="CodeInseeVille" ColumnName="CodeInseeVille" />
+          <ScalarProperty Name="SpecialiteAgence" ColumnName="SpecialiteAgence" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Artistes">
+      <EntityTypeMapping TypeName="CampagnesModel.Artiste">
+        <MappingFragment StoreEntitySet="Artiste">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="SiteWeb" ColumnName="SiteWeb" />
+          <ScalarProperty Name="IdCourantArtistique" ColumnName="IdCourantArtistique" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Campagnes">
+      <EntityTypeMapping TypeName="CampagnesModel.Campagne">
+        <MappingFragment StoreEntitySet="Campagne">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Intitule" ColumnName="Intitule" />
+          <ScalarProperty Name="Objectif" ColumnName="Objectif" />
+          <ScalarProperty Name="DateDebut" ColumnName="DateDebut" />
+          <ScalarProperty Name="DateFin" ColumnName="DateFin" />
+          <ScalarProperty Name="IdTypePublic" ColumnName="IdTypePublic" />
+          <ScalarProperty Name="IdAgenceCommunication" ColumnName="IdAgenceCommunication" />
+          <ScalarProperty Name="IdAgenceArtistique" ColumnName="IdAgenceArtistique" />
+          <ScalarProperty Name="IdEmploye" ColumnName="IdEmploye" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CategorieVips">
+      <EntityTypeMapping TypeName="CampagnesModel.CategorieVip">
+        <MappingFragment StoreEntitySet="CategorieVip">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Libelle" ColumnName="Libelle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CourantArtistiques">
+      <EntityTypeMapping TypeName="CampagnesModel.CourantArtistique">
+        <MappingFragment StoreEntitySet="CourantArtistique">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Libelle" ColumnName="Libelle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employes">
+      <EntityTypeMapping TypeName="CampagnesModel.Employe">
+        <MappingFragment StoreEntitySet="Employe">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Prenom" ColumnName="Prenom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Evenements">
+      <EntityTypeMapping TypeName="CampagnesModel.Evenement">
+        <MappingFragment StoreEntitySet="Evenement">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Intitule" ColumnName="Intitule" />
+          <ScalarProperty Name="DateDebut" ColumnName="DateDebut" />
+          <ScalarProperty Name="DateFin" ColumnName="DateFin" />
+          <ScalarProperty Name="IdCampagne" ColumnName="IdCampagne" />
+          <ScalarProperty Name="CodeInseeVille" ColumnName="CodeInseeVille" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fonctionnalites">
+      <EntityTypeMapping TypeName="CampagnesModel.Fonctionnalite">
+        <MappingFragment StoreEntitySet="Fonctionnalite">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="identifiantMenu" ColumnName="identifiantMenu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Messages">
+      <EntityTypeMapping TypeName="CampagnesModel.Message">
+        <MappingFragment StoreEntitySet="Message">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Objet" ColumnName="Objet" />
+          <ScalarProperty Name="Corps" ColumnName="Corps" />
+          <ScalarProperty Name="IdCategorieVip" ColumnName="IdCategorieVip" />
+          <ScalarProperty Name="IdEvenement" ColumnName="IdEvenement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Participations">
+      <EntityTypeMapping TypeName="CampagnesModel.Participation">
+        <MappingFragment StoreEntitySet="Participation">
+          <ScalarProperty Name="IdEvenement" ColumnName="IdEvenement" />
+          <ScalarProperty Name="IdArtiste" ColumnName="IdArtiste" />
+          <ScalarProperty Name="Cachet" ColumnName="Cachet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Profils">
+      <EntityTypeMapping TypeName="CampagnesModel.Profil">
+        <MappingFragment StoreEntitySet="Profil">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Intitule" ColumnName="Intitule" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TraceInterventions">
+      <EntityTypeMapping TypeName="CampagnesModel.TraceIntervention">
+        <MappingFragment StoreEntitySet="TraceIntervention">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NomTable" ColumnName="NomTable" />
+          <ScalarProperty Name="OperationEffectuee" ColumnName="OperationEffectuee" />
+          <ScalarProperty Name="DateHeure" ColumnName="DateHeure" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypePublics">
+      <EntityTypeMapping TypeName="CampagnesModel.TypePublic">
+        <MappingFragment StoreEntitySet="TypePublic">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Libelle" ColumnName="Libelle" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Utilisateurs">
+      <EntityTypeMapping TypeName="CampagnesModel.Utilisateur">
+        <MappingFragment StoreEntitySet="Utilisateur">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Prenom" ColumnName="Prenom" />
+          <ScalarProperty Name="Pseudo" ColumnName="Pseudo" />
+          <ScalarProperty Name="Mdp" ColumnName="Mdp" />
+          <ScalarProperty Name="IdProfil" ColumnName="IdProfil" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Villes">
+      <EntityTypeMapping TypeName="CampagnesModel.Ville">
+        <MappingFragment StoreEntitySet="Ville">
+          <ScalarProperty Name="CodeInsee" ColumnName="CodeInsee" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Arrondissement" ColumnName="Arrondissement" />
+          <ScalarProperty Name="CodePostal" ColumnName="CodePostal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vips">
+      <EntityTypeMapping TypeName="CampagnesModel.Vip">
+        <MappingFragment StoreEntitySet="Vip">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Mail" ColumnName="Mail" />
+          <ScalarProperty Name="IdCategorieVip" ColumnName="IdCategorieVip" />
+          <ScalarProperty Name="CodeInseeVille" ColumnName="CodeInseeVille" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="Habilitation" TypeName="CampagnesModel.Habilitation" StoreEntitySet="Habilitation">
+      <EndProperty Name="Fonctionnalite">
+        <ScalarProperty Name="Id" ColumnName="IdFonctionnalite" />
+      </EndProperty>
+      <EndProperty Name="Profil">
+        <ScalarProperty Name="Id" ColumnName="IdProfil" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="Invitation" TypeName="CampagnesModel.Invitation" StoreEntitySet="Invitation">
+      <EndProperty Name="Evenement">
+        <ScalarProperty Name="Id" ColumnName="IdEvenement" />
+      </EndProperty>
+      <EndProperty Name="Vip">
+        <ScalarProperty Name="Id" ColumnName="IdVip" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionImportName="sp_artiste_add" FunctionName="CampagnesModel.Store.sp_artiste_add" />
+    <FunctionImportMapping FunctionImportName="sp_artiste_delete" FunctionName="CampagnesModel.Store.sp_artiste_delete" />
+    <FunctionImportMapping FunctionImportName="sp_artiste_update" FunctionName="CampagnesModel.Store.sp_artiste_update" />
+    <FunctionImportMapping FunctionImportName="sp_agence_add" FunctionName="CampagnesModel.Store.sp_agence_add" />
+    <FunctionImportMapping FunctionImportName="sp_agence_delete" FunctionName="CampagnesModel.Store.sp_agence_delete" />
+    <FunctionImportMapping FunctionImportName="sp_agence_update" FunctionName="CampagnesModel.Store.sp_agence_update" />
+    <FunctionImportMapping FunctionImportName="sp_campagne_add" FunctionName="CampagnesModel.Store.sp_campagne_add" />
+    <FunctionImportMapping FunctionImportName="sp_campagne_delete" FunctionName="CampagnesModel.Store.sp_campagne_delete" />
+    <FunctionImportMapping FunctionImportName="sp_campagne_update" FunctionName="CampagnesModel.Store.sp_campagne_update" />
+    <FunctionImportMapping FunctionImportName="sp_evenement_add" FunctionName="CampagnesModel.Store.sp_evenement_add" />
+    <FunctionImportMapping FunctionImportName="sp_evenement_delete" FunctionName="CampagnesModel.Store.sp_evenement_delete" />
+    <FunctionImportMapping FunctionImportName="sp_evenement_update" FunctionName="CampagnesModel.Store.sp_evenement_update" />
+    <FunctionImportMapping FunctionImportName="sp_nombreAgenceParVilles" FunctionName="CampagnesModel.Store.sp_nombreAgenceParVilles">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CampagnesModel.nombreAgenceParVilles">
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="NbAgence" ColumnName="NbAgence" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_ville_add" FunctionName="CampagnesModel.Store.sp_ville_add" />
+    <FunctionImportMapping FunctionImportName="sp_vip_add" FunctionName="CampagnesModel.Store.sp_vip_add" />
+    <FunctionImportMapping FunctionImportName="sp_vip_delete" FunctionName="CampagnesModel.Store.sp_vip_delete" />
+    <FunctionImportMapping FunctionImportName="sp_vip_update" FunctionName="CampagnesModel.Store.sp_vip_update" />
+  </EntityContainerMapping>
+</Mapping>
