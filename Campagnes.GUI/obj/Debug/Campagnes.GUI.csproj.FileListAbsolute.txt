@@ -1,0 +1,258 @@
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe.config
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.GUI.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BLL.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BO.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BLL.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BO.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BO.dll.config
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.xml
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csprojAssemblyReference.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAccueil.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterArtiste.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterArtiste.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererArtiste.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.Properties.Resources.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.GenerateResource.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CoreCompileInputs.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CopyComplete
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.exe
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.DAL.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConnexion.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutVip.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterVipParCategorie.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererVip.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmImporterVille.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutCampagne.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterCampagneParAgence.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererCampagne.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterAgence.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterAgence.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererAgence.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmNbAgenceParVille.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutEvenement.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsultationEvenementsParCampagne.resources
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmModifOuSuppEvenement.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe.config
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.GUI.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.DAL.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAccueil.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutCampagne.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterAgence.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterArtiste.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutEvenement.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutVip.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConnexion.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsultationEvenementsParCampagne.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterAgence.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterArtiste.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterCampagneParAgence.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterVipParCategorie.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererAgence.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererArtiste.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererCampagne.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererVip.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmImporterVille.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmModifOuSuppEvenement.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmNbAgenceParVille.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.Properties.Resources.resources
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.GenerateResource.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CopyComplete
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.exe
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.GUI\obj\Debug\Campagnes.GUI.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe.config
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.GUI.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BLL.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BO.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BLL.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BO.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BO.dll.config
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.xml
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.DAL.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csprojAssemblyReference.cache
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAccueil.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutCampagne.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterAgence.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterArtiste.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutEvenement.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutVip.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConnexion.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsultationEvenementsParCampagne.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterAgence.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterArtiste.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterCampagneParAgence.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterVipParCategorie.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererAgence.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererArtiste.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererCampagne.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererVip.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmImporterVille.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmNbAgenceParVille.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.Properties.Resources.resources
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.GenerateResource.cache
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CoreCompileInputs.cache
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CopyComplete
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.exe
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.pdb
+C:\Users\BEA\Desktop\CCF Etudiants\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererEvenement.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe.config
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.GUI.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.DAL.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAccueil.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutCampagne.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterAgence.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterArtiste.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutEvenement.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutVip.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConnexion.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsultationEvenementsParCampagne.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterAgence.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterArtiste.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterCampagneParAgence.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterVipParCategorie.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererAgence.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererArtiste.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererCampagne.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererVip.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmImporterVille.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererEvenement.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmNbAgenceParVille.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.Properties.Resources.resources
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.GenerateResource.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CopyComplete
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.exe
+C:\Users\raphael\Desktop\Campagnes\Campagnes.GUI\obj\Debug\Campagnes.GUI.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe.config
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.GUI.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BLL.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BLL.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.DAL.pdb
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll.config
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAccueil.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutCampagne.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterAgence.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterArtiste.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutEvenement.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutVip.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConnexion.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsultationEvenementsParCampagne.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterAgence.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterArtiste.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterCampagneParAgence.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterVipParCategorie.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererAgence.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererArtiste.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererCampagne.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererVip.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmImporterVille.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererEvenement.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmNbAgenceParVille.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.Properties.Resources.resources
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.GenerateResource.cache
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CopyComplete
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.exe
+C:\Users\raphael\Desktop\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.pdb
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe.config
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.GUI.exe
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.GUI.pdb
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BLL.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BLL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.BO.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.xml
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.DAL.pdb
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\Campagnes.DAL.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\fr\EntityFramework.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csprojAssemblyReference.cache
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAccueil.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutCampagne.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterAgence.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjouterArtiste.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutEvenement.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmAjoutVip.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConnexion.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsultationEvenementsParCampagne.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterAgence.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterArtiste.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterCampagneParAgence.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmConsulterVipParCategorie.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererAgence.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererArtiste.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererCampagne.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererVip.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmImporterVille.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmGererEvenement.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.FrmNbAgenceParVille.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.Properties.Resources.resources
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.GenerateResource.cache
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CoreCompileInputs.cache
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.csproj.CopyComplete
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.exe
+D:\BTS FINI\Campagnes original\Campagnes.GUI\obj\Debug\Campagnes.GUI.pdb
