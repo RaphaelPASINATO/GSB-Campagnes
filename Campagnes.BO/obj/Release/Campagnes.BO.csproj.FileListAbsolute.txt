@@ -1,0 +1,14 @@
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\Campagnes.BO.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\EntityFramework.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\EntityFramework.SqlServer.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\EntityFramework.xml
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\EntityFramework.SqlServer.xml
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\fr\EntityFramework.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Release\fr\EntityFramework.SqlServer.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Release\Campagnes.BO.csprojAssemblyReference.cache
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Release\Campagnes.BO.csproj.CoreCompileInputs.cache
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Release\Campagnes.BO.csproj.CopyComplete
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Release\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Release\Campagnes.BO.pdb

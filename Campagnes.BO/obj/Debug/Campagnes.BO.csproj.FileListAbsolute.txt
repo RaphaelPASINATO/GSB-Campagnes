@@ -1,0 +1,56 @@
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\Campagnes.BO.dll.config
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\Campagnes.BO.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\Campagnes.BO.pdb
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.xml
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.csprojAssemblyReference.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CoreCompileInputs.cache
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CopyComplete
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.dll
+C:\Users\AKABLI\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CopyComplete
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\PPECAMPAGNES\Campagnes.BO\obj\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\Campagnes.BO.dll.config
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\Campagnes.BO.pdb
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\EntityFramework.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\EntityFramework.xml
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\obj\Debug\Campagnes.BO.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CopyComplete
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\obj\Debug\Campagnes.BO.dll
+C:\Users\raphael\Desktop\Campagnes\Campagnes.BO\obj\Debug\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\Campagnes.BO.dll.config
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\Campagnes.BO.pdb
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\EntityFramework.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\EntityFramework.xml
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\fr\EntityFramework.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Debug\Campagnes.BO.csprojAssemblyReference.cache
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CoreCompileInputs.cache
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Debug\Campagnes.BO.csproj.CopyComplete
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Debug\Campagnes.BO.dll
+D:\BTS FINI\Campagnes original\Campagnes.BO\obj\Debug\Campagnes.BO.pdb
